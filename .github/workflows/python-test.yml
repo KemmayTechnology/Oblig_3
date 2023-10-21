@@ -1,4 +1,4 @@
-name: Run Python Tests with pytest
+name: Run Python Tests with pytest!
 
 on: [push]
 
